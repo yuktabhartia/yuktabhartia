@@ -3,7 +3,7 @@
 🎓 Graduate Student in Information Systems Management @ Carnegie Mellon University  
 💼 2.5+ years as a Backend Software Engineer @ Tata Consultancy Services  
 🚀 Passionate about building scalable backend systems, distributed architectures, and AI/ML-powered applications  
-🌍 Open to SDE and backend engineering roles — let's connect!
+🌍 Open to SDE and SWE roles — let's connect!
 
 ---
 
